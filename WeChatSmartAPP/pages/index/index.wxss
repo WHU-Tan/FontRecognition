@@ -1,0 +1,25 @@
+/* pages/pic-analysis/pic-analysis.wxss */
+.container{
+  position: absolute;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.input-image{
+  position: relative;
+  width: 250rpx;
+  height: 250rpx;
+  background-color: rgb(255, 255, 255);
+}
+
+.btn{
+  position: relative;
+  top: -30rpx;
+  background-color: #108ee9;
+}
+
+.btn1{
+  background-color: #108ee9;
+}

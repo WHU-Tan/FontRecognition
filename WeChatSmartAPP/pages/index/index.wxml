@@ -1,0 +1,9 @@
+<!--pages/pic-analysis/pic-analysis.wxml-->
+
+<form bindsubmit="uploadImg">
+  <view class="container">
+    <image class="input-image" src="{{photos}}"></image>
+    <button class="btn" bindtap="chooseImg">上传图片</button>
+    <button class="btn1" form-type="submit" bindtap="gotoAnalysis" mode="aspectFit" >开始检测</button>
+  </view>
+</form>

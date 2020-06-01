@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/pic-analysis/pic-analysis"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#108ee9"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

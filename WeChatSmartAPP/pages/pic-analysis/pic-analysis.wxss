@@ -1,0 +1,12 @@
+/* pages/pic-analysis/pic-analysis.wxss */
+.container{
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
+.result{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 50px;
+}

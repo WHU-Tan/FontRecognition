@@ -1,0 +1,7 @@
+<!--pages/pic-analysis/pic-analysis.wxml-->
+<view class="container">
+  <view class="result">
+  <text>可能的字体为：</text>
+  <text> {{text}} </text>
+  </view>
+</view>
