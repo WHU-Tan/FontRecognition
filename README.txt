@@ -4,6 +4,6 @@ MasterProgram文件夹：后端字体识别的主程序，Python3编写，用于
 
 WeChatSmartAPP文件夹：微信小程序前端，用于与用户的交互。利用微信开发者工具打开，程序入口为app.json。利用微信扫码登陆后申请测试ID，联系作者获得权限后即可进行真机调试。端口号需修改为本地计算机中封装好的后端程序所对应的目录。
 
-demo文件夹：WeChatSmartAPP为前端交互的录屏演示。
+demo文件夹：MasterProgram为后端模型的介绍与结果展示，WeChatSmartAPP为前端交互的录屏演示。
 
 #联系作者：haiantanxiao@whu.edu.cn
