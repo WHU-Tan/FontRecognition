@@ -6,4 +6,6 @@ WeChatSmartAPP文件夹：微信小程序前端，用于与用户的交互。利
 
 demo文件夹：MasterProgram为后端模型的介绍与结果展示，WeChatSmartAPP为前端交互的录屏演示。
 
+report：课程设计的最终报告，题为FontRecognition: Identify Your Font from An Image。
+
 #联系作者：haiantanxiao@whu.edu.cn
