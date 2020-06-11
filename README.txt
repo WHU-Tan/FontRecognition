@@ -8,4 +8,6 @@ demo文件夹：MasterProgram为后端模型的介绍与结果展示，WeChatSma
 
 report：课程设计的最终报告，题为FontRecognition: Identify Your Font from An Image。
 
+slides：项目汇报的演示文稿。
+
 #联系作者：haiantanxiao@whu.edu.cn
